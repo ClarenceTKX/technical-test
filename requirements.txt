@@ -1,0 +1,16 @@
+soundfile==0.12.1
+torch==2.1.1+cu121
+flask==3.0.0
+transformers==4.35.2
+pydub==0.25.1
+requests==2.31.0
+pandas==2.1.3
+datasets==2.15.0
+InstructorEmbedding
+sentence-transformers
+numpy
+librosa
+flask
+soundfile
+pydub
+pathlib
